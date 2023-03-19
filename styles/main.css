@@ -208,7 +208,7 @@ main div.order_element select#expireYear{
 }
 
 /* form element input field button format */
-#submit_form input.order_button{
+#submit_form input.order-button{
     width: 10em;
 }
 
